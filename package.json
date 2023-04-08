@@ -1,0 +1,23 @@
+{
+  "name": "coffee_apk",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakharyadav27/Coffee_app_beta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakharyadav27/Coffee_app_beta/issues"
+  },
+  "homepage": "https://github.com/Prakharyadav27/Coffee_app_beta#readme"
+}
